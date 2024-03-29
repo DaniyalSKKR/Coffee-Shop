@@ -1,0 +1,17 @@
+.button{
+	-fx-font-size: 16px;
+	-fx-background-color: white
+}
+.text{
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+.root{
+    -fx-background-color: brown;
+    -fx-background-image: url("coffee-bean-background-roasted-coffee-1439665.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 600 500;
+    -fx-background-position: center center;
+}
+
