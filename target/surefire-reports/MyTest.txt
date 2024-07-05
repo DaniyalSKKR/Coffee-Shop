@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: MyTest
 -------------------------------------------------------------------------------
-Tests run: 10, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.03 s <<< FAILURE! - in MyTest
-test10  Time elapsed: 0.02 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: expected: <5.49> but was: <5.59>
-	at MyTest.test10(MyTest.java:68)
-
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.035 s - in MyTest
